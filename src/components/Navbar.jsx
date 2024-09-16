@@ -45,7 +45,7 @@ function Navbar({ onViewPreviousExpenses }) {
         onClick={() => navigate('/')}
         aria-label="Navigate to Home"
       >
-        MoneyMinder
+        PennySmart
       </div>
       <div className="relative" ref={dropdownRef}>
         <FaUserCircle
