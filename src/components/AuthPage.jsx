@@ -9,7 +9,7 @@ function AuthPage() {
     >
       <div className="w-full max-w-md p-8 text-center bg-white rounded-lg shadow-lg bg-opacity-90">
         <h1 className="mb-4 text-4xl font-bold text-green-600 sm:text-3xl">
-          Welcome to MoneyMinder
+          Welcome to PennyWise
         </h1>
         <p className="mb-8 text-lg text-gray-700 sm:text-base">
           Effortlessly track your expenses and manage your finances with ease.
